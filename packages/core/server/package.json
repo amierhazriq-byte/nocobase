@@ -12,7 +12,7 @@
     "@koa/router": "^13.1.0",
     "@nocobase/acl": "1.8.32",
     "@nocobase/actions": "1.8.32",
-    "@nocobase/auth": "1.8.32",
+    "@nocobase/auth": "1.9.22",
     "@nocobase/cache": "1.8.32",
     "@nocobase/data-source-manager": "1.8.32",
     "@nocobase/database": "1.8.32",
